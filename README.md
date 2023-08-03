@@ -73,3 +73,6 @@ onic/skin-cancer-malignant-vs-benign
   </td>
     </tr>
 </table>
+## GUI
+![sir](https://github.com/akarshsnair/Skin-Cancer-Detection/assets/92806180/c34402dc-e97b-4038-8bdf-98633a92b02e)
+![BN](https://github.com/akarshsnair/Skin-Cancer-Detection/assets/92806180/949aff56-ad38-475d-8e6b-702be63913ed)
