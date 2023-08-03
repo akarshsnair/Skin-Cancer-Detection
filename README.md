@@ -18,6 +18,7 @@ evaluation. Various image processing techniques
 are employed to extract relevant features from the
 skin lesion images, such as color, texture, shape,
 and asymmetry.
+<br>
 Link to access the website: https://threesquaree.github.io/Skin-Cancer-Prediction-using-CNN-Model/
 
 ## Objective
