@@ -57,8 +57,7 @@ The datasets that we are using for the
 project has been taken from kaggle
 (Detailed Images of Skin Lesions).
 <br>
-Link :  https://www.kaggle.com/datasets/fanc
-onic/skin-cancer-malignant-vs-benign
+Link :  https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign
 
 ## Methodology
 <table>
